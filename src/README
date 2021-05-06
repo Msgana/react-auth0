@@ -1,0 +1,33 @@
+
+April 30, 2021
+
+Implementation for Auth0 
+
+    - All the applications developed will be using the Auth0 authentication process
+
+---
+
+The following code repo contains the core structure of the authentication 
+ process for the following applications:
+
+        1. giffy app clone 
+            - front end
+                - react web app
+            - backend
+                - aws lambda 
+                - aws s3
+                - ffmpeg for javascript
+
+        2. Whatsapp-cone
+            - front end
+                - react web app
+            - backend
+                - hbase nosql datastore for javascript
+
+        3. Upvote (music rating app) - an orginal application
+            - front end
+                -react web app
+            -  backend
+                - voltdb
+
+ 
